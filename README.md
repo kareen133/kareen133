@@ -13,7 +13,6 @@ Passionate about building responsive, user-centric web applications, I specializ
 ## 🛠 Technical Skills
 - **🔹 Languages & Frameworks**: JavaScript (React.js, Vue.js), HTML5, CSS3 (Bootstrap, Tailwind CSS)
 - **🔹 Design Tools**: Adobe XD, Figma, Canva, Adobe Suite
-- **🔹 Backend**: Node.js, Express.js, MongoDB
 - **🔹 Version Control**: Git & GitHub
 - **🔹 API Integration & Debugging**: RESTful APIs, browser dev tools
 
