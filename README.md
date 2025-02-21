@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kareen Alkhateeb! 
 
-**🚀 Frontend Developer | 🎨 UI/UX Enthusiast
+🚀 Frontend Developer | 🎨 UI/UX Enthusiast
 
 Passionate about building responsive, user-centric web applications, I specialize in modern frontend technologies and intuitive design principles. With a strong foundation in React, Vue.js, and UI/UX design, I aim to create seamless and engaging digital experiences.
 
