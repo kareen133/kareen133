@@ -7,14 +7,14 @@ Passionate about building responsive, user-centric web applications, I specializ
 ## 🔥 What I Do
 - **✨ Frontend Development**: Crafting sleek and interactive user interfaces using Vue.js, React, and PrimeVue.
 - **🎨 UI/UX Design**: Transforming wireframes into clean, maintainable, and engaging web applications.
-- **🛠️ API & Backend Integration**: Working with Node.js, Express, and MongoDB for seamless data flow.
-- **🔍 Debugging & Optimization**: Ensuring high performance, responsiveness, and cross-platform compatibility.
+- **🛠️ API & Backend Integration**: Fetching and managing data efficiently using RESTful APIs, handling asynchronous requests, and integrating with backend services for seamless data flow in frontend applications.
+- **🔍 Debugging & Optimization**: Ensuring high performance, responsiveness, and testing API endpoints using Postman for debugging and optimization.
 
 ## 🛠 Technical Skills
 - **🔹 Languages & Frameworks**: JavaScript (React.js, Vue.js), HTML5, CSS3 (Bootstrap, Tailwind CSS)
 - **🔹 Design Tools**: Adobe XD, Figma, Canva, Adobe Suite
 - **🔹 Version Control**: Git & GitHub
-- **🔹 API Integration & Debugging**: RESTful APIs, browser dev tools
+- **🔹 API Integration & Debugging**: RESTful APIs, browser dev tools ,Postman for debugging APIs
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
