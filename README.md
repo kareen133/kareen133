@@ -47,12 +47,6 @@ Passionate about building responsive, user-centric web applications, I specializ
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-  </a>
-  <a href="https://primevue.org/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/P/prime-logo-61DCE9B906-seeklogo.com.png" alt="primevue" width="40" height="40"/>
-  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
